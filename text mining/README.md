@@ -24,4 +24,5 @@ proposed on the exam.
 Second part is the additional feature you asked - automatic evaluation of
 the user profile, based on the known id’s of the books he read already. The
 script chooses most related book from the list of remaining (unread) books.
+
 P.S. Default user profile parameters can be changed at line 131.
