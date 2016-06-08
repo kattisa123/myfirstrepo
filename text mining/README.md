@@ -10,8 +10,7 @@ in the database, I just had some problems loading text with titles to R. Texts
 and titles in each file are separated by line breaks. You can add or delete
 texts, as long as titles and texts correspond.
 ##Lexicon
-Lexicon is taken from large and famous [NRC Word-Emotion Association
-Lexicon](ttp://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
+Lexicon is taken from large and famous [NRC Word-Emotion Association Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
 ##Script
 The script is devided in two parts, the result (recommendation) is given at
 the end of each. First part is the main part of the assignment. It assumes
